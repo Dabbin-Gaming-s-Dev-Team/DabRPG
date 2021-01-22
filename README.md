@@ -9,7 +9,7 @@
 import time
 from termcolor import colored
 import sys
-import replit
+import replitdb
 ```
 
 ## License
