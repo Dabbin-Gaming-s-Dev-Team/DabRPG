@@ -15,7 +15,7 @@ import replitdb
 ## License
 # MIT License
 
-#### Copyright (c) 2020 DabbinGaming/awdev
+#### Copyright (c) 2021 DabbinGaming/awdev
 
 #### Permission is hereby granted, free of charge, to any person obtaining a copy
 #### of this software and associated documentation files (the "Software"), to deal
