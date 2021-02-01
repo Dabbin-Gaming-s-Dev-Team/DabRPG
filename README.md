@@ -1,9 +1,9 @@
 <img src ="https://camo.githubusercontent.com/ee22c1d26ef748a961ce08234e36d71dfc1b61867ad57e5262e0cfce7dbdadb1/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3737373237323534303633363131393034312f3830333332393238333339363733303937302f4461625f5250475f322e706e673f77696474683d333639266865696768743d333639"></img>
 
-# DabRPG-BETA-0.2.0
+# DabRPG-BETA-0.3.0
 #### This Script can only be run on https://repl.it due to it using REPL DB
 [![Run on Repl.it](https://repl.it/badge/github/Dabbin-Gamings-Dev-Team/DabRPG)](https://repl.it/github/Dabbin-Gamings-Dev-Team/DabRPG)
-### Version BETA 0.2.0
+### Version BETA 0.3.0
 # Database: Replit DB
 ## Packages used 
 
