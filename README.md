@@ -1,4 +1,4 @@
-<center><img src ="https://media.discordapp.net/attachments/777272540636119041/803329283396730970/Dab_RPG_2.png?width=369&height=369"></img></center>
+                    <img src ="https://media.discordapp.net/attachments/777272540636119041/803329283396730970/Dab_RPG_2.png?width=369&height=369"></img>
 
 # DabRPG-BETA-0.2.0
 #### This Script can only be run on https://repl.it due to it using REPL DB
