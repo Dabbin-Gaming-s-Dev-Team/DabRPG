@@ -14,7 +14,7 @@ import sys
 import replitdb
 ```
 
-## License
+## Copyright/Legal Info
 # MIT License
 
 #### Copyright (c) 2021 DabbinGaming/awdev
