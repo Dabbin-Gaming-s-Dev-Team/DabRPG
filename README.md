@@ -12,6 +12,7 @@ import time
 from termcolor import colored
 import sys
 import replitdb
+from replit import db
 ```
 
 ## Copyright/Legal Info
