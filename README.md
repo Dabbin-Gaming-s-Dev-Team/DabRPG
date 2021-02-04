@@ -5,7 +5,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/Dabbin-Gamings-Dev-Team/DabRPG)](https://repl.it/github/Dabbin-Gamings-Dev-Team/DabRPG)
 ### Version BETA 0.3.0
 # Database: Replit DB
-## Packages used 
+## Packages needed for the project to work 
 
 ```python
 import time
